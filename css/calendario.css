@@ -1,0 +1,31 @@
+h1 {
+    font-size: 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-width: .2rem;
+    border-style: solid;
+    border-color: #000000;
+    margin: .3rem 1.5rem;
+    
+}    
+h2 {
+    color: #000000;
+    font-weight: solid;
+    margin: 1.1rem .1rem;
+    font-size: 1.5rem;
+}
+ul {
+    font-size: 1rem;
+    margin:.9rem 1rem ;
+}
+h3 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: left;
+    border-width: .2rem;
+    border-style: solid;
+    border-color: #000000;
+    margin-left: 20rem;
+    margin-right: 1.5rem;
+}
