@@ -1,0 +1,65 @@
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    
+}
+
+.imagem {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3rem;
+    height: 3rem;
+}
+
+.imagem1{
+    padding: 1rem; 
+}
+.informacoes{
+    display: flex;
+    flex-direction: column;  
+}
+p{
+    padding: .3rem;
+    margin: 0rem .1rem .1rem .1rem;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    padding: .5rem .5rem .2rem 1rem; 
+    
+}
+
+.outro{
+    display: flex;
+    flex-direction: column;
+    padding: .4rem;
+}
+.sinopse{
+    padding: .5rem;
+    justify-content: center;
+}
+.trailer{
+    justify-content: center;
+    padding: .5rem;
+}
+.video{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: .3rem;
+    
+}
+h1{
+    font-size: 1.5rem;
+}
