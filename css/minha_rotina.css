@@ -1,0 +1,45 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+header
+{
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+main{
+    overflow: scroll;
+    height: 35rem;
+}
+.menu{
+    height: 3rem;
+    width: 3rem;
+}
+h1{
+    font-size: 2rem;
+    margin-left: 3.7rem;
+}
+.dia{
+    margin-top:3rem;
+    
+}
+.icone{
+    height: 2rem;
+    width: 2rem;
+}
+footer{
+    position: fixed;
+    display: flex;
+    margin-top: 5%;
+    border-top: 0.1rem black solid;
+    bottom: 0;
+    padding: 0.5rem;
+    width: 100%;
+    justify-content: space-evenly;
+
+}
