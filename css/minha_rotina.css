@@ -10,7 +10,7 @@ header
     display: flex;
     justify-content: flex-start;
     align-items: center;
-
+    color: red;
 }
 main{
     overflow: scroll;
@@ -21,8 +21,8 @@ main{
     width: 3rem;
 }
 h1{
-    font-size: 2rem;
-    margin-left: 3.7rem;
+    font-size: 3rem;
+    margin-left: 3rem;
     font-family: 'Lato', sans-serif;
 }
 p{
@@ -46,5 +46,12 @@ footer{
     padding: 0.5rem;
     width: 100%;
     justify-content: space-evenly;
+    background-color: red;
 
+}
+
+html
+{
+    color: white;
+    background-color: black;
 }

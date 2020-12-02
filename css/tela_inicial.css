@@ -27,7 +27,7 @@ main
 }
 
 h1{
-    font-size: 2rem;
+    font-size: 3rem;
     margin-top: 2rem;
     font-family: 'Lato', sans-serif;
 }
@@ -37,8 +37,20 @@ h2
     font-size: 2rem;
     text-align: center;
     
-    border: 0.1rem black solid;
+    border: 0.1rem red solid;
     margin: 8rem 0.4rem 3rem 0.4rem;
     padding: 0.3rem;
     font-family: 'Lato', sans-serif;
+}
+
+html
+{
+    color: red;
+    background-color: black;
+}
+
+a
+{
+    color: white;
+    text-decoration: none;
 }
