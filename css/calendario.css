@@ -15,6 +15,7 @@ header
 }
 div{
     margin-top: 2rem;
+    font-family: 'Lato', sans-serif;
 }
 .menu{
     height: 3rem;
@@ -23,6 +24,7 @@ div{
 h1{
     font-size: 2rem;
     margin-left: 3.7rem;
+    font-family: 'Lato', sans-serif;
 }
 main{
     margin-top: 3rem;
@@ -39,5 +41,6 @@ footer{
     padding: 0.5rem;
     width: 100%;
     justify-content: space-evenly;
+    font-family: 'Lato', sans-serif;
 
 }

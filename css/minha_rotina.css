@@ -23,9 +23,11 @@ main{
 h1{
     font-size: 2rem;
     margin-left: 3.7rem;
+    font-family: 'Lato', sans-serif;
 }
 p{
     font-size: 2rem;
+    font-family: 'Lato', sans-serif;
 }
 .dia{
     margin-top:3rem;
