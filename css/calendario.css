@@ -44,3 +44,21 @@ footer{
     font-family: 'Lato', sans-serif;
 
 }
+
+html
+{
+    color: red;
+    background-color: black;
+}
+
+a
+{
+    color: white;
+    text-decoration: none;
+}
+
+footer a
+{
+    border: 0.2rem white solid;
+    padding: 0.4rem;
+}

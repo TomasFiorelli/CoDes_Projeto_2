@@ -11,6 +11,7 @@ header
     justify-content: flex-start;
     align-items: center;
     height: 20%;
+
 }
 .serie{
     height: 9rem;
@@ -40,6 +41,7 @@ p{
     padding: 0.5rem;
     border: 0.1rem black solid;
     border-radius: 1rem;
+    background-color: red;
 }
 .tudo{
     position: relative;
@@ -48,4 +50,22 @@ p{
 }
 li{
     margin-top: 2.3rem;
+}
+
+html
+{
+    color: red;
+    background-color: black;
+}
+
+a
+{
+    color: white;
+    text-decoration: none;
+}
+
+div a
+{
+    color: black;
+    font-weight: bold;
 }
