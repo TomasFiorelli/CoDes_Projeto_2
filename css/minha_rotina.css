@@ -41,13 +41,12 @@ footer{
     position: fixed;
     display: flex;
     margin-top: 5%;
-    border-top: 0.1rem black solid;
+    border-top: 0.5rem white solid;
     bottom: 0;
     padding: 0.5rem;
     width: 100%;
     justify-content: space-evenly;
     background-color: red;
-
 }
 
 html
